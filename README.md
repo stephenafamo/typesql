@@ -1,5 +1,7 @@
 # TypeSQL: A typesafe SQL query builder
 
+## Renamed and moved -> [New Module](https://github.com/stephenafamo/bob)
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/stephenafamo/typesql.svg)](https://pkg.go.dev/github.com/stephenafamo/typesql)
 
 ## Features
